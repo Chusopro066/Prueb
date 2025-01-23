@@ -1,0 +1,83 @@
+[ {
+
+"name": "Instagram",
+
+"link": "https://www.instagram.com/",
+
+"icon": "instagram.png"
+
+},
+
+{
+
+"name": "Twitch",
+
+"link": "https://twitch.tv",
+
+"icon": "twitch.png"
+
+},
+
+{
+
+"name": "TikTok",
+
+"link": "https://tiktok.com",
+
+"icon": "tiktok.png"
+
+},
+
+{
+
+"name": "WhatsApp",
+
+"link": "https://web.whatsapp.com",
+
+"icon": "whatsapp.png"
+
+},
+
+{
+
+"name": "YouTube",
+
+"link": "https://youtube.com",
+
+"icon": "youtube.png"
+
+},
+
+{
+
+"name": "Pokemon Go",
+
+"link": "https://pokemongolive.com",
+
+"icon": "pokemongo.png"
+
+},
+
+{
+
+"name": "Yahoo",
+
+"link": "https://yahoo.com",
+
+"icon": "yahoo.png"
+
+},
+
+{
+
+"name": "Opera GX",
+
+"link": "https://operagx.com",
+
+"icon": "operagx.png"
+
+}
+
+]
+
+
